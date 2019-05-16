@@ -1,0 +1,12 @@
+macro-averaged val_Precision = 0.913012%
+macro-averaged val_Recall = 0.931266%
+macro-averaged val_F1-score = 0.922049%
+
+              precision    recall  f1-score   support
+
+           0       0.98      0.98      0.98    197857
+           1       0.91      0.93      0.92     43414
+
+   micro avg       0.97      0.97      0.97    241271
+   macro avg       0.95      0.96      0.95    241271
+weighted avg       0.97      0.97      0.97    241271

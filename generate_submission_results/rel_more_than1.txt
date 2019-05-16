@@ -1,0 +1,835 @@
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 12	['主演', '歌手']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 12
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 67	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 67
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 117	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 117
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 168	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 168
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 230	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 230
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 244	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 244
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 296	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 296
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 334	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 334
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 471	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 471
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 514	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 514
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 538	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 538
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 591	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 591
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 601	['歌手', '作词']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 601
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 674	['歌手', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 674
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 759	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 759
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 797	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 797
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 926	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 926
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 995	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 995
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 1121	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 1121
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 1147	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 1147
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 1148	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 1148
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 1149	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 1149
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 1195	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 1195
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 1231	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 1231
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 1317	['总部地点', '所在城市']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 1317
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 1318	['总部地点', '所在城市']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 1318
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 1325	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 1325
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 1326	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 1326
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 1327	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 1327
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 1328	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 1328
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 1343	['占地面积', '面积']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 1343
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 1344	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 1344
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 1363	['主演', '导演']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 1363
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 1440	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 1440
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 1471	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 1471
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 1885	['出生地', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 1885
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 1893	['主演', '导演']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 1893
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 1928	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 1928
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 1937	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 1937
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2005	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2005
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2023	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2023
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2043	['主演', '歌手']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2043
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2080	['主演', '导演']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2080
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2093	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2093
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2172	['民族', '出生地']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2172
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2219	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2219
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2220	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2220
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2226	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2226
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2241	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2241
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2243	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2243
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2289	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2289
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2333	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2333
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2334	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2334
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2335	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2335
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2336	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2336
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2431	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2431
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2476	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2476
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2659	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2659
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2745	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2745
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2763	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2763
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2769	['歌手', '作词']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2769
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2770	['歌手', '作词']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2770
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2833	['出生地', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2833
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 2879	['总部地点', '出生地']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 2879
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 3012	['编剧', '制片人']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 3012
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 3016	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 3016
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 3119	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 3119
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 3248	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 3248
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 3289	['编剧', '制片人']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 3289
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 3428	['毕业院校', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 3428
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 3660	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 3660
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 3669	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 3669
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 3702	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 3702
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 3716	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 3716
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 3771	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 3771
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 3844	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 3844
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 3846	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 3846
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 3848	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 3848
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 3865	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 3865
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 3889	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 3889
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 3891	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 3891
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 3932	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 3932
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 3939	['出生地', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 3939
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 3960	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 3960
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 4181	['号', '字']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 4181
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 4186	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 4186
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 4286	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 4286
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 4288	['歌手', '作词']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 4288
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 4413	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 4413
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 4431	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 4431
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 4461	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 4461
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 4537	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 4537
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 4590	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 4590
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 4632	['总部地点', '所在城市']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 4632
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 4716	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 4716
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 4804	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 4804
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 4870	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 4870
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 4874	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 4874
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 4911	['占地面积', '面积']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 4911
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 4925	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 4925
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 4926	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 4926
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 4927	['歌手', '作词']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 4927
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 4952	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 4952
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 4954	['主演', '导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 4954
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 5013	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 5013
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 5015	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 5015
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 5022	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 5022
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 5126	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 5126
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 5152	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 5152
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 5168	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 5168
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 5249	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 5249
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 5315	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 5315
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 5316	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 5316
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 5326	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 5326
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 5335	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 5335
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 5533	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 5533
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 5599	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 5599
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 5640	['丈夫', '朝代']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 5640
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 5664	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 5664
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 5764	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 5764
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 5865	['朝代', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 5865
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 5964	['出生地', '祖籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 5964
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 5970	['出生地', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 5970
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6009	['出版社', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6009
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6082	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6082
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6136	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6136
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6251	['丈夫', '父亲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6251
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6259	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6259
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6312	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6312
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6403	['朝代', '父亲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6403
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6405	['主演', '导演']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6405
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6508	['主演', '编剧', '制片人']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6508
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6513	['歌手', '作词']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6513
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6514	['歌手', '作词']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6514
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6515	['歌手', '作词']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6515
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6516	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6516
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6530	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6530
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6589	['毕业院校', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6589
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6612	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6612
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6663	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6663
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6685	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6685
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6736	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6736
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6753	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6753
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6759	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6759
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6796	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6796
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6853	['出生地', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6853
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6912	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6912
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6918	['出生地', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6918
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 6963	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 6963
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 7014	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 7014
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 7046	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 7046
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 7136	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 7136
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 7171	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 7171
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 7183	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 7183
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 7184	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 7184
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 7260	['主演', '导演']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 7260
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 7313	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 7313
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 7547	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 7547
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 7569	['歌手', '作词']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 7569
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 7618	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 7618
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 7696	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 7696
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 7708	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 7708
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 7798	['创始人', '董事长']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 7798
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 7889	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 7889
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 7945	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 7945
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8033	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8033
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8050	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8050
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8102	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8102
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8103	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8103
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8104	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8104
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8105	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8105
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8119	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8119
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8120	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8120
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8132	['出生地', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8132
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8206	['毕业院校', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8206
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8263	['毕业院校', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8263
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8331	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8331
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8365	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8365
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8371	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8371
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8372	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8372
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8451	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8451
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8453	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8453
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8497	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8497
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8502	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8502
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8557	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8557
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8606	['主演', '导演']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8606
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8647	['出生地', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8647
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8648	['出生地', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8648
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8670	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8670
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8883	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8883
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8891	['占地面积', '面积']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8891
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8934	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8934
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 8994	['主演', '导演']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 8994
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9017	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9017
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9019	['海拔', '所在城市']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9019
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9033	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9033
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9132	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9132
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9191	['歌手', '嘉宾']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9191
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9228	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9228
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9252	['丈夫', '父亲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9252
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9314	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9314
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9411	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9411
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9453	['主演', '导演']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9453
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9483	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9483
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9484	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9484
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9487	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9487
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9518	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9518
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9523	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9523
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9593	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9593
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9597	['出生地', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9597
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9626	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9626
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9631	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9631
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9657	['母亲', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9657
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9658	['母亲', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9658
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9661	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9661
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9668	['歌手', '作词']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9668
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9671	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9671
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9754	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9754
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9791	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9791
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 9874	['出生地', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 9874
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 10042	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 10042
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 10174	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 10174
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 10194	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 10194
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 10250	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 10250
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 10269	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 10269
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 10282	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 10282
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 10340	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 10340
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 10350	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 10350
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 10363	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 10363
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 10380	['丈夫', '父亲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 10380
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 10506	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 10506
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 10541	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 10541
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 10550	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 10550
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 10624	['创始人', '董事长']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 10624
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 10692	['主演', '导演']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 10692
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 10876	['出生地', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 10876
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 10920	['总部地点', '所在城市']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 10920
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 10969	['毕业院校', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 10969
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 11022	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 11022
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 11059	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 11059
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 11176	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 11176
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 11224	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 11224
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 11306	['毕业院校', '出版社']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 11306
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 11442	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 11442
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 11475	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 11475
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 11530	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 11530
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 11553	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 11553
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 11569	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 11569
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 11574	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 11574
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 11592	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 11592
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 11599	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 11599
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 11627	['所属专辑', '作词']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 11627
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 11666	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 11666
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 11667	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 11667
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 11668	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 11668
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 11742	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 11742
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 11756	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 11756
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 11876	['主演', '导演']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 11876
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 11888	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 11888
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 11890	['出生地', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 11890
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 11910	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 11910
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 12005	['歌手', '嘉宾']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 12005
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 12018	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 12018
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 12039	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 12039
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 12098	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 12098
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 12220	['朝代', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 12220
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 12222	['朝代', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 12222
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 12235	['出生地', '祖籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 12235
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 12321	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 12321
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 12422	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 12422
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 12425	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 12425
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 12509	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 12509
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 12510	['主持人', '嘉宾']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 12510
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 12511	['主持人', '嘉宾']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 12511
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 12568	['出生地', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 12568
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 12591	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 12591
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 12597	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 12597
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 12648	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 12648
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 12672	['主演', '导演']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 12672
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 12867	['所属专辑', '歌手']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 12867
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 12964	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 12964
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 13000	['父亲', '母亲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 13000
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 13193	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 13193
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 13241	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 13241
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 13242	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 13242
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 13284	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 13284
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 13293	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 13293
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 13359	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 13359
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 13362	['毕业院校', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 13362
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 13450	['所属专辑', '歌手']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 13450
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 13582	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 13582
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 13617	['出生地', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 13617
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 13638	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 13638
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 13678	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 13678
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 13694	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 13694
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 13695	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 13695
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 13755	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 13755
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 13792	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 13792
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 13808	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 13808
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 13955	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 13955
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 13987	['出生地', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 13987
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 13988	['出生地', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 13988
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 13992	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 13992
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 14115	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 14115
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 14178	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 14178
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 14208	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 14208
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 14244	['主演', '导演']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 14244
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 14246	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 14246
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 14303	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 14303
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 14329	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 14329
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 14452	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 14452
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 14453	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 14453
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 14481	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 14481
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 14522	['主演', '导演']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 14522
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 14693	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 14693
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 14694	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 14694
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 14710	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 14710
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 14730	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 14730
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 14734	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 14734
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 14775	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 14775
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 14812	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 14812
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 14838	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 14838
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 14910	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 14910
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 14931	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 14931
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 14967	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 14967
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 15104	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 15104
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 15114	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 15114
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 15116	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 15116
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 15211	['歌手', '作词']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 15211
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 15325	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 15325
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 15381	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 15381
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 15440	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 15440
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 15493	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 15493
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 15538	['主演', '导演']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 15538
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 15556	['创始人', '董事长']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 15556
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 15616	['歌手', '作词']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 15616
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 15633	['主演', '导演']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 15633
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 15783	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 15783
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 15835	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 15835
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 15875	['丈夫', '父亲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 15875
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 16138	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 16138
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 16233	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 16233
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 16362	['出生地', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 16362
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 16394	['主演', '导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 16394
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 16460	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 16460
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 16488	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 16488
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 16575	['主演', '导演']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 16575
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 16588	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 16588
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 16652	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 16652
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 16700	['歌手', '作词']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 16700
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 16736	['父亲', '母亲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 16736
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 16750	['丈夫', '出生地']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 16750
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17002	['歌手', '作词']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17002
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17015	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17015
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17066	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17066
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17067	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17067
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17068	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17068
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17070	['主演', '导演']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17070
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17136	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17136
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17187	['主演', '导演']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17187
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17207	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17207
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17262	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17262
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17398	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17398
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17459	['出版社', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17459
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17470	['主演', '歌手']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17470
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17472	['主演', '歌手']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17472
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17557	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17557
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17581	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17581
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17675	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17675
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17777	['编剧', '制片人']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17777
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17779	['主演', '导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17779
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17780	['主演', '导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17780
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17822	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17822
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17825	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17825
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17985	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17985
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 17996	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 17996
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 18006	['简称', '主持人']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 18006
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 18038	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 18038
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 18138	['主演', '制片人']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 18138
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 18205	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 18205
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 18312	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 18312
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 18317	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 18317
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 18429	['主演', '歌手']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 18429
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 18431	['主演', '歌手']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 18431
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 18470	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 18470
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 18471	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 18471
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 18472	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 18472
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 18505	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 18505
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 18597	['主演', '导演']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 18597
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 18741	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 18741
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 18771	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 18771
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 18779	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 18779
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 18850	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 18850
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 18852	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 18852
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 18960	['占地面积', '面积']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 18960
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 19039	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 19039
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 19040	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 19040
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 19127	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 19127
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 19186	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 19186
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 19222	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 19222
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 19327	['导演', '制片人']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 19327
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 19447	['歌手', '作词']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 19447
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 19496	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 19496
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 19603	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 19603
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 19634	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 19634
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 19746	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 19746
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 19844	['作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 19844
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 19864	['毕业院校', '国籍']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 19864
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 19953	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 19953
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 19988	['编剧', '制片人']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 19988
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 20098	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 20098
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 20115	['歌手', '作词', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 20115
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 20193	['歌手', '作曲']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 20193
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 20301	['编剧', '作者']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 20301
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 20375	['导演', '编剧']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 20375
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 20410	['创始人', '董事长']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 20410
+The test set in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/data/test_features.csv" line: 20411	['创始人', '董事长']
+If model predictions are checked for errors, manually correct them in "../relationship_extraction/entity-aware-relation-classification_49_multilabels_rel/predict_results/test1_49_multilabels_rel_predict_labels.txt" line: 20411
+In the test set, the number of the same subject-object relationship is greater than 1 is : 417
